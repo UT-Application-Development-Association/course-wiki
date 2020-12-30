@@ -1,5 +1,6 @@
 ---
 layout: post
+name: note template
 about: Template for creating a note
 title: "[Note]"
 labels: ''
