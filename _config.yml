@@ -12,7 +12,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-github_username: uoftada
+github_username: UT-Applicataion-Development-Association
 
 
 
