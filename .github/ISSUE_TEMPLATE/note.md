@@ -16,11 +16,11 @@ date:
 author:
 
 tags:
-  - \- tag1
+  - tag1
   
-  - \- tag2
+  - tag2
   
-  - \- tag3
+  - tag3
 ## 课程介绍
 
 ## 大体课设
