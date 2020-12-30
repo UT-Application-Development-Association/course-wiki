@@ -1,0 +1,23 @@
+{
+    "name": "dino-blog",
+    "title": "Dino Blog",
+    "version": "1.0.0",
+    "homepage": "http://dinolii.github.io",
+    "author": "Hux",
+    "devDependencies": {
+        "grunt": "^1.1.0",
+        "grunt-banner": "~0.2.3",
+        "grunt-contrib-less": "^2.0.0",
+        "grunt-contrib-uglify": "^4.0.1",
+        "grunt-contrib-watch": "^1.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dinolii/dinolii.github.io"
+    },
+    "scripts": {
+        "start": "bundle exec jekyll serve -w -l --host 0.0.0.0",
+        "dev": "grunt watch & npm run start",
+        "push": "git push origin master --tag"
+    }
+}
