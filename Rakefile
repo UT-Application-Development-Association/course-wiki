@@ -42,6 +42,10 @@ task :post do
     post.puts "header-img: \"img/post-bg-2015.jpg\""
     post.puts "tags: []"
     post.puts "---"
+    post.puts "## 课程介绍"
+    post.puts "## 课程设置"
+    post.puts "## 常驻教授"
+    post.puts "## 课程难度"
   end
 end # task :post
 
