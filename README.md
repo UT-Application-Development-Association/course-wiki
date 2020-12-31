@@ -17,7 +17,7 @@ the issue.  We will merge this into the website, after you submit your issue.
 You can also fork this repository and work on your own, if you want to submit multiple notes at once.  After you have done your work in your forked repository, you
 can submit a pull request in the github.  We will merge your pull request in the later.
 
-### Send Us an Email
+### Send US an Email
 If you do not want to create your github account, you can also download the [template](template/template.md) to your machine.  And send your note to our email, we will merge
 it into the website after we receive the email.
 
