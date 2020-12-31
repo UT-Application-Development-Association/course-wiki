@@ -6,7 +6,7 @@ basic information for courses offered in the University of Toronto
 If you are a student from UOFT want to submit a note.  There are three approaches for you to do
 + [Github Issue](#Github-Issue) (Github Account Required)
 + [Pull Request](#Pull-Request) (Github Account Required)
-+ [Send US an Email](Send-US-an-Email) (No Github Account Required)
++ [Send US an Email](#Send-US-an-Email) (No Github Account Required)
 
 ### Github Issue
 If you have a github account, then you can write a note by opening the issues on the navigation bar on the top of this github repository.  We have already provided
