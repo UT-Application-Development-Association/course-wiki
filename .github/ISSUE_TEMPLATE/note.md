@@ -7,9 +7,9 @@ labels: ''
 assignees: ''
 ---
 # 文章信息
-title : course code of the course
+title : course code
 
-subtitle: course name of the course
+subtitle: course name
 
 date: 
 
