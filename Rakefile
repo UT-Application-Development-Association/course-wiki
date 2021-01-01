@@ -43,7 +43,7 @@ task :post do
     post.puts "tags: []"
     post.puts "---"
     post.puts "## 课程介绍"
-    post.puts "## 课程设置"
+    post.puts "## 大体课设"
     post.puts "## 常驻教授"
     post.puts "## 课程难度"
   end
