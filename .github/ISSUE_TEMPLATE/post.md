@@ -1,7 +1,7 @@
 ---
 layout: post
-name: note template
-about: Template for creating a note
+name: post template
+about: Template for creating a post
 title: "[Note]"
 labels: ''
 assignees: ''
@@ -16,11 +16,12 @@ date:
 author:
 
 tags:
-  - tag1
+  - UTSG/UTSC/UTM
   
-  - tag2
+  - Department
   
   - tag3
+
 ## 课程介绍
 
 ## 大体课设
@@ -28,3 +29,12 @@ tags:
 ## 常驻教授
 
 ## 课程难度
+Your feedback about the course
+
+- 内容难度:  / 5
+
+- 作业难度:  / 5
+
+- Workload:  / 5
+
+- Overall难度:  / 5
