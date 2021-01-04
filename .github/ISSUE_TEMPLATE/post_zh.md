@@ -1,9 +1,9 @@
 ---
 layout: post
-name: Post Template
-about: Template for creating a post
-title: "[Note]"
-labels: ''
+name: Chinese Template
+about: 中文模版
+title: "[Course Code]"
+labels: 'chinese'
 assignees: ''
 ---
 # 文章信息
