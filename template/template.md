@@ -1,18 +1,19 @@
 # 文章信息
-title :
+title: course code
 
-subtitle:
+subtitle: course name
 
-date:
+date: 
 
 author:
 
 tags:
-- tag1
+  - UTSG/UTSC/UTM
+  
+  - Department
+  
+  - tag3
 
-- tag2
-
-- tag3
 ## 课程介绍
 
 ## 大体课设
@@ -20,3 +21,12 @@ tags:
 ## 常驻教授
 
 ## 课程难度
+Your feedback about the course
+
+- 内容难度:  / 5
+
+- 作业难度:  / 5
+
+- Workload:  / 5
+
+- Overall难度:  / 
