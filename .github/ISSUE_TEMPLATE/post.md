@@ -1,6 +1,6 @@
 ---
 layout: post
-name: post template
+name: Post Template
 about: Template for creating a post
 title: "[Note]"
 labels: ''
