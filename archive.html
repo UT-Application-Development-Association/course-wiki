@@ -37,8 +37,8 @@ header-img: "img/tag-bg.jpg"
 			<!-- Article List -->
 			<div class="mini-post-list js-result d-none">
 				{%- assign _sorted_list = site.posts -%}
-				{%- assign _sorted_list = _sorted_list | sort: 'date' -%}
-				{%- assign _sorted_list = _sorted_list | reverse -%}
+				{%- assign _sorted_list = _sorted_list | sort: 'title' -%}
+				{% comment % } {%- assign _sorted_list = _sorted_list | reverse -%} {% endcomment %}
 
 
 				{%- for _article in _sorted_list -%}
