@@ -3,7 +3,7 @@ layout: post
 name: English Template
 about: Template for creating a post in English
 title: "Course Code"
-labels: 'English'
+labels: english
 assignees: ''
 ---
 # Post Information
