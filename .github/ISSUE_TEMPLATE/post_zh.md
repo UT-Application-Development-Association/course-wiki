@@ -2,7 +2,7 @@
 layout: post
 name: Chinese Template
 about: 中文模版
-title: "[Course Code]"
+title: "Course Code"
 labels: 'chinese'
 assignees: ''
 ---
