@@ -2,11 +2,11 @@
 layout: post
 name: English Template
 about: Template for creating a post in English
-title: "[Course Code]"
+title: "Course Code"
 labels: 'English'
 assignees: ''
 ---
-# 文章信息
+# Post Information
 title: course code
 
 subtitle: course name
