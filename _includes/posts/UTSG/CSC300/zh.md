@@ -14,6 +14,7 @@ CSC300的全称是“Computer Science & Society”，主要是研究一些历史
 
 ## 常驻教授
 Ishtiaque Ahmed
+
 Ahmed是从2018年Winter Semester开始教CSC300的，之后每个学期这门课都有他，到现在已经有差不多3年时间了，所以他对这门课的内容也是非常熟悉的。Ahmed上课很耐心，讲的很细致，很乐意学生回答问题，甚至鼓励学生多参与讨论。
 
 ## 课程难度
