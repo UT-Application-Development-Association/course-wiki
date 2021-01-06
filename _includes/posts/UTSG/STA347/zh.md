@@ -23,12 +23,12 @@ midterm 40分是常态，assignment难到吐血。
 
 ## 课程难度
 
-能换别的prof就换prof吧。
+能换别的prof就换prof吧。如果有strong math background并且头铁可以试试
 
 - 内容难度:  5/ 5
 
 - 作业难度:  5/ 5
 
-- Workload:  5/ 5
+- Workload:  5/ 5 
 
 - Overall难度:  5/ 5
