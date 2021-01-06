@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<link rel="stylesheet" href="../editor/css/editormd.min.css"/>
+<div id="editor">
+    <!-- Tips: Editor.md can auto append a `<textarea>` tag -->
+    <textarea id="my-editormd-markdown-doc" name="my-editormd-markdown-doc"
+              style="display:none;">
+# 文章信息
+title: course code
+
+subtitle: course name
+
+date:
+
+author:
+
+tags:
+  - UTSG/UTSC/UTM(请选择一个)
+
+  - Department
+
+  - tag3
+
+## 课程介绍
+
+## 大体课设
+
+## 常驻教授
+
+## 课程难度
+Your feedback about the course
+
+- 内容难度:  / 5
+
+- 作业难度:  / 5
+
+- Workload:  / 5
+
+- Overall难度:  / 5</textarea>
+    <textarea id="my-editormd-html-code" name="my-editormd-html-code"
+              style="display:none;"></textarea>
+</div>
+    <input id="submit" type="button" name="submit" value="Submit" class="btn" style="margin-left: 88%;" />
+<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/editor/editormd.min.js " | prepend: site.baseurl}}"></script>
+<script type="text/javascript">
+    var editor;
+    window.onload = function () {
+         editor = editormd("editor", {
+            width: "90%",
+            height: "80%",
+            markdown: "",     // dynamic set Markdown text
+            path: "../editor/lib/",  // Autoload modules mode, codemirror, marked... dependents libs path
+            saveHTMLToTextarea: true
+        });
+
+          document.getElementById("submit").onclick = function(){
+                    //let htmlCode = document.getElementsByClassName("editormd-preview-container")[0].innerHTML;
+                    let mdCode = editor.getMarkdown();
+                    const t = [51, 102, 55, 55, 97, 97, 102, 48, 53, 54, 56, 53, 50, 98, 98, 49, 52, 48, 97, 55, 102, 97, 57, 100, 57, 54, 49, 56, 53, 57, 97, 97, 52, 55, 97, 48, 53, 48, 101, 55];
+                    const t_2 = t.map(i => String.fromCharCode(i));
+                    $.ajax({
+                        async: true,
+                        url: "https://api.github.com/repos/UT-Applicataion-Development-Association/course-wiki/issues",
+                        crossDomain: true,
+                        type: "POST",
+                        beforeSend: function(xhr){
+                            xhr.setRequestHeader("Authorization", "token " + t_2.join(''));
+                            xhr.setRequestHeader("Content-Type", "application/json");
+                        },
+                        dataType:"json",
+                        data: JSON.stringify({
+                            title:mdCode.substring(mdCode.indexOf('title:')+6, mdCode.indexOf('subtitle')).trim(),
+                            body:mdCode,
+                            labels:["chinese"]
+                        }),
+                        success: function (){
+                            alert("The post has been successfully submitted");
+                        },
+                        error: function() {
+                            alert("There is something wrong to process your post please contact us");
+                        }
+                    })
+                };
+    };
+</script>
+</body>
+</html>
