@@ -16,6 +16,7 @@ M Molkaraie
 lecture以video的方式进行，会把proof单独拎出来做视频。会公布practice questions的答案（天哪终于有教授会给答案了）
 
 ## 课程难度
+如果有MAT224的基础的话, STA437中Linear Algebra的部分会相对简单, 如果没有，那么恭喜你，你要struggle一会了
 
 拉GPA利器
 
