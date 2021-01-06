@@ -56,7 +56,10 @@ Your feedback about the course
             height: "80%",
             markdown: "",     // dynamic set Markdown text
             path: "../editor/lib/",  // Autoload modules mode, codemirror, marked... dependents libs path
-            saveHTMLToTextarea: true
+            saveHTMLToTextarea: true,
+             toolbarIcons : function() {
+                return editormd.toolbarModes['simple']; // full, simple, mini
+             }
         });
 
           document.getElementById("submit").onclick = function(){
