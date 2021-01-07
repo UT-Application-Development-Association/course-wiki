@@ -34,8 +34,7 @@ Alec Jacobson: Alec可以说是改变了CSC418这节课的一个教授,CSC418里
 David Levin: David是位很有幽默感的教授, 上课经常讲着就会穿插着各种金句出来, 总之上David的课是不会无聊的。和Alec一样David也是专业背景和讲课都很过硬同时也很亲民的教授
 
 ## 课程难度
-CSC418是一节内容十分有趣但相对workload偏大的一节课。每周的programming assignment对应着课程每一周所讲述的知识是对上课内容一个很好的复习, 但每个作业会需要大量的时间在debug所
-以临due再开始写是会吃苦头的。同时这节课是一节对C++和Linear Algebra都有一定要求的课, 特别是课程后期想要能理解课上的内容需要有好的linear algebra的背景, 推荐在上CSC418之前复习一下Linear Algebra。但总体是一节很有意思的课
+CSC418是一节内容十分有趣但相对workload偏大的一节课。每周的programming assignment对应着课程每一周所讲述的知识是对上课内容一个很好的复习, 但每个作业会需要大量的时间在debug所以临due再开始写是会吃苦头的。同时这节课是一节对C++和Linear Algebra都有一定要求的课, 特别是课程后期想要能理解课上的内容需要有好的linear algebra的背景, 推荐在上CSC418之前复习一下Linear Algebra。但总体是一节很有意思的课
 
 - 内容难度: 3.5 / 5
 

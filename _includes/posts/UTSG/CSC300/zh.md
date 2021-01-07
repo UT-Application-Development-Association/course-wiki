@@ -18,7 +18,7 @@ Ishtiaque Ahmed
 Ahmed是从2018年Winter Semester开始教CSC300的，之后每个学期这门课都有他，到现在已经有差不多3年时间了，所以他对这门课的内容也是非常熟悉的。Ahmed上课很耐心，讲的很细致，很乐意学生回答问题，甚至鼓励学生多参与讨论。
 
 ## 课程难度
-这门课总体来说是比较简单的，课程内容相比其他300 Level的CS课来说要简单很多，唯一的问题可能就是workloa比较大。
+这门课总体来说是比较简单的，课程内容相比其他300 Level的CS课来说要简单很多，唯一的问题可能就是workload比较大。
 
 每周课前要求学生读2-3篇reading和一个case study，然后会提出几个关于case的问题。接下来，学生需要写一篇reading response，用reading中的哲学概念来解释和回答这些问题。每个reading response占总分的6%，一共有11个reading response，取其中分数最高的9个，占比总分的54%。
 

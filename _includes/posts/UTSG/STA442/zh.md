@@ -6,11 +6,13 @@
 
 ## 大体课设
 
-4 assignments + 1 final
+- 4 assignments
 
-每个assignment包含一个一页的essay和一个两页的essay。
+    - 每个assignment包含一个一页的essay和一个两页的essay。
 
-final考试会要求写essay的一部分（比如让你单独写method这个部分，或者让你写results+discussion部分），也有让你当场直接写一个完整essay的。
+- final
+    
+    - final考试会要求写essay的一部分（比如让你单独写method这个部分，或者让你写results+discussion部分），也有让你当场直接写一个完整essay的。
 反正这门课就是离不开essay。
 
 ## 常驻教授
