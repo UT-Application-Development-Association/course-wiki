@@ -21,9 +21,8 @@ A basic course for those who learn Computer Science. This course is designed to 
 
 ## Course difficulty
 Classmates who have a solid foundation in CS are easier to join. The content before TT1 is relatively simple, students can use TT1 and the first two
-Assignment to pull boost mark. From TT2 onwards, the overall difficulty of the course content will gradually increase. If you want to get decent mark on TT2 and Final,
-you need to carefully complete the homework and exercises assigned by the prof every week. Students who don’t have a foundation don’t need to be too nervous, as long as they learn steadily, the most
-You can get a good score later!
+Assignment to boost mark. From TT2 onwards, the overall difficulty of the course content will gradually increase. If you want to get decent mark on TT2 and Final,
+you need to carefully complete the homework and exercises assigned by the prof every week. Students who don’t have a foundation don’t need to be too nervous, as long as you learn steadily, you will get a good mark
 
 - Content difficulty: 2/5
 
