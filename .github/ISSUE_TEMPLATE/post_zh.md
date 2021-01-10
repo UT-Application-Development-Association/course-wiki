@@ -11,8 +11,6 @@ title: course code
 
 subtitle: course name
 
-date: 
-
 author:
 
 tags:
