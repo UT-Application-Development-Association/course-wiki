@@ -3,11 +3,14 @@ This project is created by the UTADA(University of Toronto Application Developme
 basic information for courses offered in the University of Toronto
 
 ## How to contribute to this project
-If you are a student from UOFT want to submit a post.  There are three approaches for you to do
+If you are a student from UOFT want to submit a post.  There are four approaches for you to do
++ [Online Editor](#Online-Editor) (No Github Account Required)
 + [Github Issue](#Github-Issue) (Github Account Required)
 + [Pull Request](#Pull-Request) (Github Account Required)
 + [Send US an Email](#Send-US-an-Email) (No Github Account Required)
 
+### Online Editor
+The simplest way to submit a post is to use the editor from the website.  You can edit your post and preview your result simulanteously on https://course-wiki.uoftada.com/editor/.  
 ### Github Issue
 If you have a github account, then you can write a post by opening the issues on the navigation bar on the top of this github repository.  We have already provided
 the template for writing a post in the github issue.  The github provides an easy-to-use online markdown editor, after you finish write the issue, you can submit 
