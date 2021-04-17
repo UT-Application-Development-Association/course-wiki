@@ -18,15 +18,14 @@ Machine Code Generation is responsible for translating IR into instruction corre
 Machine Dependent Optimization is the platform-specific optimization based on the Target Machine after the Machine Code is generated.
 
 ## General course design
--6 Assignments (75 %)
--Environment Setup (4%)
--Grammar and parse (10%)
--AST (11%)
--Semantic Analysis (12%)
--IR Generation (22%)
--IR Optimization (16%)
--Final Exam (25%)
-Note: The above courses are from Winter 2021 and are for reference only
+- 6 Assignments (75 %)
+  - Environment Setup (4%)
+  - Grammar and parse (10%)
+  - AST (11%)
+  - Semantic Analysis (12%)
+  - IR Generation (22%)
+  - IR Optimization (16%)
+- Final Exam (25%)
 
 ## Permanent Professor
 
