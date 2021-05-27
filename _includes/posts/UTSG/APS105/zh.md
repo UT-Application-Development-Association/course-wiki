@@ -3,14 +3,17 @@ APS105是一门工程大一入门的C语言编程课，主要从零开始教授�
 
 ## 大体课设
 根据2021Winter的Syllabus，本课考核比例为：
-Labs: 29%
-Midterm: 30%
-Final: 40%
-Collaboration: 1%
+
+- Labs: 29%
+- Midterm: 30%
+- Final: 40%
+- Collaboration: 1%
 
 ## 常驻教授
 Phil Anderson
+
 Afshin Poraria
+
 Hamid Shokrollah-Timorabadi
 
 ## 课程难度

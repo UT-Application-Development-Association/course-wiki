@@ -3,14 +3,17 @@ APS105 is a C language programming course for the first year of engineering. It 
 
 ## General course design
 According to Syllabus of Winter 2021, the assessment ratio for this course is:
-Labs: 29%
-Midterm: 30%
-Final: 40%
-Collaboration: 1%
+
+- Labs: 29%
+- Midterm: 30%
+- Final: 40%
+- Collaboration: 1%
 
 ## Permanent Professor
 Phil Anderson
+
 Afshin Poraria
+
 Hamid Shokrollah-Timorabadi
 
 ## Course difficulty
