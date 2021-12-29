@@ -13,8 +13,10 @@ Be sure to do your homework seriously, go to the tutorial, some TAs will give so
 
 ## General course design
 The following courses are from 2020Winter-2021Fall. Due to the epidemic, the courses have been simplified and the final exam has been cancelled:
+
 -18 Homework Problemsets 60% (difficulty, five major problems, deadly problems)
 -9 Quizzes 40% (the difficulty is medium to high, the test time is one hour)
+
 You can drop the two lowest-scoring assignments and the lowest-scoring quiz.
 
 ## Permanent Professor
